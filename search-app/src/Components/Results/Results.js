@@ -5,10 +5,10 @@ function Results() {
     return(
         <ul className="collection with-header">
         <li className="collection-header"><h4>Results</h4></li>
-        <li className="collection-item"><div>Alvin<a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
-        <li className="collection-item"><div>Alvin<a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
-        <li className="collection-item"><div>Alvin<a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
-        <li className="collection-item"><div>Alvin<a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
+        <li className="collection-item"><div><a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
+        <li className="collection-item"><div><a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
+        <li className="collection-item"><div><a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
+        <li className="collection-item"><div><a href="#!" className="secondary-content"><i className="material-icons">save</i></a></div></li>
       </ul>
     );
 };
